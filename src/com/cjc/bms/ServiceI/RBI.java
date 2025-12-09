@@ -6,6 +6,7 @@ public interface RBI {
 	void withDrawlMoney();
 	void depositMoney();
 	void showBalance();
+        //void git uploadcheck();
 	
 
 }
