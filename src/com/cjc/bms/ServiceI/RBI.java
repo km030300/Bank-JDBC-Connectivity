@@ -1,6 +1,8 @@
 package com.cjc.bms.ServiceI;
 
 public interface RBI {
+ 
+          int x = 10;
 	void createAccount();
 	void showDetails();
 	void withDrawlMoney();
